@@ -17,10 +17,14 @@ Extreme Gradient Boosting (XGBoost): A robust and efficient classifier used to c
 The combined model was rigorously trained on labeled data and subsequently evaluated on a separate validation set to assess its performance metrics. Our approach showed promising results in accurately distinguishing between parasitized and uninfected samples.
 
 ## **Key Features**
-### Accurate Detection: High accuracy in distinguishing between parasitized and uninfected blood samples.
-### Advanced Machine Learning Techniques: Utilizes CNNs for feature extraction and XGBoost for classification.
-### Efficient Processing: Robust and efficient classification, suitable for real-time diagnostic applications.
-### Early Diagnosis: Facilitates early detection and intervention in malaria-endemic regions.
+### Accurate Detection:
+High accuracy in distinguishing between parasitized and uninfected blood samples.
+### Advanced Machine Learning Techniques: 
+Utilizes CNNs for feature extraction and XGBoost for classification.
+### Efficient Processing: 
+Robust and efficient classification, suitable for real-time diagnostic applications.
+### Early Diagnosis: 
+Facilitates early detection and intervention in malaria-endemic regions.
 
 ## **Keywords**
 Malaria, Convolutional Neural Networks (CNNs), Extreme Gradient Boosting (XGBoost), Image Classification, Feature Extraction, Machine Learning, Parasitized, Uninfected, Microscopic Images, Diagnosis, Healthcare Technology.
